@@ -1,0 +1,1 @@
+First stab at making a blog via GitHub's new "GitHub Pages":http://github.com/blog/272-github-pages feature.
